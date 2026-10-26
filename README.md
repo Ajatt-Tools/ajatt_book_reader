@@ -2,6 +2,10 @@
 
 ## AJATT Reader
 
+[![Open](https://img.shields.io/badge/open-reader-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://reader.ajatt.top/)
+[![Chat](https://img.shields.io/badge/chat-join-green?style=for-the-badge&logo=Telegram&logoColor=green)](https://ajatt.top/blog/join-our-community.html)
+[![Support](https://img.shields.io/badge/support-developer-orange?style=for-the-badge&logo=Patreon&logoColor=orange)](https://ajatt.top/blog/donating-to-tatsumoto.html)
+
 An online e-book reader that supports dictionary extensions like Rikaitan,
 which is hosted on [reader.ajatt.top](https://reader.ajatt.top).
 AJATT Reader is the successor to [ttu](https://github.com/ttu-ttu/ebook-reader).
