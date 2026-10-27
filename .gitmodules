@@ -1,3 +1,0 @@
-[submodule "apps/sync-server"]
-	path = apps/sync-server
-	url = https://github.com/Minnowo/ttsu-sync-server.git
